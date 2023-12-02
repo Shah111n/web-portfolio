@@ -1,0 +1,15 @@
+body{
+    font-family: 'Nova Square', sans-serif;
+}
+.name-highligh{
+    color: blueviolet;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
